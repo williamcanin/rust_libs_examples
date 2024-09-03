@@ -127,4 +127,4 @@ The `result.txt` file will be created with the sum of two numbers passed in the
 **5** - That's it, the end.
 
 ---
-(c) - William Canin - [LICENSE](..\LICENSE)
+(c) - William Canin - [LICENSE](LICENSE)
