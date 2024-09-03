@@ -12,7 +12,7 @@ biblioteca `kernel.dll`.
 
 ```
 git clone https://github.com/williamcanin/rust_libs_examples.git
-cd rust-libs-examples
+cd rust_libs_examples
 cargo build
 ```
 

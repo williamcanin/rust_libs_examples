@@ -1,4 +1,4 @@
-[Read in Portuguese Brazil](..\README.md)
+[Read in Portuguese Brazil](../README.md)
 
 # :crab: Example of a dynamic library (cdylib) in Rust
 
@@ -11,7 +11,7 @@ Inside `utils.dll` we have an addition function (`add`), which will be imported 
 
 ```
 git clone https://github.com/williamcanin/rust_libs_examples.git
-cd rust-libs-examples
+cd rust_libs_examples
 cargo build
 ```
 
