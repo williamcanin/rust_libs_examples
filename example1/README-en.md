@@ -1,4 +1,4 @@
-[Read in Portuguese Brazil](../README.md)
+[Read in Portuguese Brazil](README.md)
 
 # :crab: Example of a dynamic library (cdylib) in Rust
 
